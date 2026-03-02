@@ -3,5 +3,5 @@
  * ⚠️  STUDENTS: replace the URL below with your own Render service URL.
  */
 const CONFIG = {
-    API_URL: "https://fraud-detection-api-haer.onrender.com",
+    API_URL: "https://fraud-detection-nuwdcub03-lyaminedb1s-projects.vercel.app/",
 };
